@@ -1,8 +1,13 @@
 ---
+title: 浏览器工作解析一（十一）
+date: 2019-05-10
+tags:
+ - 浏览器
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/10/
 next: /views/relearn_front_end/12/
 ---
-# 浏览器工作解析一（十一）
 
 ## 一、URL到网页呈现发生了什么？
 

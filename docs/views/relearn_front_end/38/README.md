@@ -1,8 +1,14 @@
 ---
+title: 浏览器API（三十八）
+date: 2019-07-03
+tags:
+ - JavaScript
+ - 浏览器
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/37/
 next: /views/relearn_front_end/39/
 ---
-# 浏览器API（三十八）
 
 ## 一、介绍
 

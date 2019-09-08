@@ -1,8 +1,13 @@
 ---
+title: JavaScript中要不要加分号？（二十九）
+date: 2019-06-07
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/28/
 next: /views/relearn_front_end/30/
 ---
-# JavaScript中要不要加分号？（二十九）
 
 ## 一、自动插入分号规则
 

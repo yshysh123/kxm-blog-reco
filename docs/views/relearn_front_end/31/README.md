@@ -1,8 +1,13 @@
 ---
+title: JavaScript的语句（三十一）
+date: 2019-06-09
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/30/
 next: /views/relearn_front_end/32/
 ---
-# JavaScript的语句（三十一）
 
 ## 一、介绍
 

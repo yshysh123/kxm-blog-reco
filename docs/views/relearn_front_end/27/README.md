@@ -1,8 +1,13 @@
 ---
+title: JavaScript的词法（二十七）
+date: 2019-06-03
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/26/
 next: /views/relearn_front_end/28/
 ---
-# JavaScript的词法（二十七）
 
 ## 一、JavaScript 的词法（lexical grammar）
 

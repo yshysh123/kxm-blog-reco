@@ -1,8 +1,14 @@
 ---
+title: CSS的动画和交互（三十九）
+date: 2019-07-08
+tags:
+ - Css
+ - 动画
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/38/
 next: /views/relearn_front_end/40/
 ---
-# CSS的动画和交互（三十九）
 
 ## 一、介绍
 

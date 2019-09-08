@@ -3,7 +3,7 @@ title: 前端发展史以及学习痛点（一）
 date: 2019-04-25
 next: /views/relearn_front_end/2/
 tags:
- - 杂谈
+ - 前端杂谈
 categories:
  - 重学前端专栏
 ---

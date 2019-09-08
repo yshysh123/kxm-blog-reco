@@ -1,8 +1,13 @@
 ---
+title: 用代码挖掘W3C中的CSS属性（四十二）
+date: 2019-08-05
+tags:
+ - Css
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/41/
 next: /views/relearn_front_end/43/
 ---
-# 用代码挖掘W3C中的CSS属性（四十二）
 
 ## 一、浏览器中已经实现的属性
 

@@ -1,8 +1,13 @@
 ---
+title: JavaScript语法的基本规则（三十）
+date: 2019-06-08
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/29/
 next: /views/relearn_front_end/31/
 ---
-# JavaScript语法的基本规则（三十）
 
 ## 一、脚本和模块
 

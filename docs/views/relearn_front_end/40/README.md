@@ -1,8 +1,13 @@
 ---
+title: HTML语言（四十）
+date: 2019-07-12
+tags:
+ - Html
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/39/
 next: /views/relearn_front_end/41/
 ---
-# HTML语言（四十）
 
 ## 一、介绍
 

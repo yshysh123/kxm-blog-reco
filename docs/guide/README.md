@@ -14,9 +14,11 @@ tags:
 
 ### [1、JavaScript](/views/javascript/)
 
-### [2、Vue](/views/vue/)
+### [2、Jquery](/views/jquery/)
 
-### [3、React](/views/react/)
+### [3、Vue](/views/vue/)
+
+### [4、React](/views/react/)
 
 ## 专栏笔记
 

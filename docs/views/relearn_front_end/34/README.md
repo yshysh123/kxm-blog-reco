@@ -1,8 +1,13 @@
 ---
+title: 什么是替换型元素？（三十四）
+date: 2019-06-25
+tags:
+ - Html
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/33/
 next: /views/relearn_front_end/35/
 ---
-# 什么是替换型元素？（三十四）
 
 ## 一、介绍
 

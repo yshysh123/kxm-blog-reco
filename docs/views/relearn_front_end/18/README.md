@@ -1,8 +1,13 @@
 ---
+title: JavaScript的闭包和执行上下文（十八）
+date: 2019-05-17
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/17/
 next: /views/relearn_front_end/19/
 ---
-# JavaScript的闭包和执行上下文（十八）
 
 ## 一、函数执行过程相关知识
 

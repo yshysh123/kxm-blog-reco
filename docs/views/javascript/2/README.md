@@ -1,4 +1,15 @@
-# 原始类型
+<!-- ---
+title: 原始类型
+date: 2019-09-08
+tags:
+ - JavaScript
+categories:
+ - JavaScript专栏
+prev: /views/javascript/1/
+next: /views/javascript/3/
+--- -->
+
+## 参考文章
 
 - [原始数据 —— MDN](https://developer.mozilla.org/zh-CN/docs/Glossary/Primitive)
 - [ECMAScript 原始类型 —— W3school](http://www.w3school.com.cn/js/pro_js_primitivetypes.asp)

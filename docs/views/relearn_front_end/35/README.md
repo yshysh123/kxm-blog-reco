@@ -1,8 +1,13 @@
 ---
+title: HTML标准分析（三十五）
+date: 2019-06-26
+tags:
+ - Html
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/34/
 next: /views/relearn_front_end/36/
 ---
-# HTML标准分析（三十五）
 
 ## 一、介绍
 

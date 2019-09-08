@@ -1,8 +1,13 @@
 ---
+title: try里面放return，finally还会执行吗？（二十）
+date: 2019-05-19
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/19/
 next: /views/relearn_front_end/21/
 ---
-# try里面放return，finally还会执行吗？（二十）
 
 ## 一、引言
 

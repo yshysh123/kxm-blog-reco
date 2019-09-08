@@ -1,8 +1,13 @@
 ---
+title: 浏览器工作解析三（十三）
+date: 2019-05-13
+tags:
+ - 浏览器
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/12/
 next: /views/relearn_front_end/14/
 ---
-# 浏览器工作解析三（十三）
 
 ## 一、概括
 

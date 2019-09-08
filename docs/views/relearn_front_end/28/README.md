@@ -1,8 +1,14 @@
 ---
+title: 通过四则运算的解释器快速理解编译原理（二十八）
+date: 2019-06-05
+tags:
+ - JavaScript
+ - 编译原理
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/27/
 next: /views/relearn_front_end/29/
 ---
-# 通过四则运算的解释器快速理解编译原理（二十八）
 
 ## 一、分析
 

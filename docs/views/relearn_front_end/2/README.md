@@ -4,7 +4,7 @@ date: 2019-04-25
 prev: /views/relearn_front_end/1/
 next: /views/relearn_front_end/3/
 tags:
- - 杂谈
+ - 前端杂谈
 categories:
  - 重学前端专栏
 ---

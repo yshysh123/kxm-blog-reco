@@ -1,8 +1,13 @@
 ---
+title: 选择器的机制（二十二）
+date: 2019-05-21
+tags:
+ - Css
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/21/
 next: /views/relearn_front_end/23/
 ---
-# 选择器的机制（二十二）
 
 ## 一、引言
 

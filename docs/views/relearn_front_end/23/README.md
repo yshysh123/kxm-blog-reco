@@ -1,8 +1,13 @@
 ---
+title: 狭义的文档对象DOM（二十三）
+date: 2019-05-23
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/22/
 next: /views/relearn_front_end/24/
 ---
-# 狭义的文档对象DOM（二十三）
 
 ## 一、DOM API 介绍
 

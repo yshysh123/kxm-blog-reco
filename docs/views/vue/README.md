@@ -1,11 +1,11 @@
 ---
 title: Vue相关文章
-date: 2019-09-06
+date: 2019-04-25
 isComment: false
 tags:
  - 导航
 categories:
- - Vue
+ - Vue专栏
 ---
 
 ## 总目录

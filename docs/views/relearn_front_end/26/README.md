@@ -1,8 +1,13 @@
 ---
+title: CSSOM（二十六）
+date: 2019-05-30
+tags:
+ - Css
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/25/
 next: /views/relearn_front_end/27/
 ---
-# CSSOM（二十六）
 
 ## 一、介绍
 

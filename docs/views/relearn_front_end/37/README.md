@@ -1,8 +1,14 @@
 ---
+title: 浏览器事件（三十七）
+date: 2019-07-02
+tags:
+ - JavaScript
+ - 浏览器
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/36/
 next: /views/relearn_front_end/38/
 ---
-# 浏览器事件（三十七）
 
 ## 一、介绍
 

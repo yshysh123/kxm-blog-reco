@@ -1,8 +1,13 @@
 ---
+title: HTML元信息类标签（十六）
+date: 2019-05-15
+tags:
+ - Html
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/15/
 next: /views/relearn_front_end/17/
 ---
-# HTML元信息类标签（十六）
 
 ## 一、什么是元信息类标签
 

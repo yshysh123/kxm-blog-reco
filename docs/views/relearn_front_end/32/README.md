@@ -1,8 +1,13 @@
 ---
+title: JavaScript的表达式语句（三十二）
+date: 2019-06-10
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/31/
 next: /views/relearn_front_end/33/
 ---
-# JavaScript的表达式语句（三十二）
 
 ## 一、什么是表达式语句
 

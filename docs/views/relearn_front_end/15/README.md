@@ -1,8 +1,13 @@
 ---
+title: 浏览器工作解析五（十五）
+date: 2019-05-14
+tags:
+ - 浏览器
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/14/
 next: /views/relearn_front_end/16/
 ---
-# 浏览器工作解析五（十五）
 
 ## 一、回顾
 

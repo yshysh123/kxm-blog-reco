@@ -1,8 +1,13 @@
 ---
+title: Promise里的代码为什么比setTimeout先执行？（十七）
+date: 2019-05-16
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/16/
 next: /views/relearn_front_end/18/
 ---
-# Promise里的代码为什么比setTimeout先执行？（十七）
 
 ## 一、引言
 

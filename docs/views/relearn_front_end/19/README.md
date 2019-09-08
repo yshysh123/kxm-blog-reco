@@ -1,8 +1,13 @@
 ---
+title: JavaScript中的函数（十九）
+date: 2019-05-18
+tags:
+ - JavaScript
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/18/
 next: /views/relearn_front_end/20/
 ---
-# JavaScript中的函数（十九）
 
 ## 一、函数
 

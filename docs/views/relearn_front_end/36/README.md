@@ -1,8 +1,13 @@
 ---
+title: Flex 布局（三十六）
+date: 2019-06-30
+tags:
+ - Css
+categories:
+ - 重学前端专栏
 prev: /views/relearn_front_end/35/
 next: /views/relearn_front_end/37/
 ---
-# Flex 布局（三十六）
 
 ## 一、介绍
 
